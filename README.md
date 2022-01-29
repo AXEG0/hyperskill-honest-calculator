@@ -1,7 +1,7 @@
 # hyperskill-honest-calculator
 
-Honest Calculator an application that would motivate users rely on own mind rather than computer calculations.
+Honest Calculator is an application that motivates users rely on their own mind rather than computer calculations.
 
-If you would like to learn how to create the same app just visit that link: https://hyperskill.org/projects/208
+If you would like to learn how to create the same app just visit this link: https://hyperskill.org/projects/208
 
 Hope you will enjoy it:)
