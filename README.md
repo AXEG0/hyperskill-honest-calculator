@@ -4,39 +4,39 @@ Honest Calculator is an application that motivates users rely on their own mind 
 
 Example:
 Enter an equation
-2 + 3
+> 2 + 3
 You are ... lazy
-5.0
+> 5.0
 Do you want to store the result? (y / n):
-y
+> y
 Are you sure? It is only one digit! (y / n)
-y
+> y
 Don't be silly, it's just one number! Add to the memory? (y / n)
-n
+> n
 Do you want to continue calculations? (y / n):
-y
+> y
 Enter an equation
-5 + M
+> 5 + M
 You are ... lazy ... very, very lazy
-5.0
+> 5.0
 Do you want to store the result? (y / n):
-y
+> y
 Are you sure? It is only one digit! (y / n)
-y
+> y
 Don't be silly, it's just one number! Add to memory? (y / n)
-y
+> y
 Last chance! Do you really want to embarrass yourself? (y / n)
-y
+> y
 Do you want to continue calculations? (y / n):
-y
+> y
 Enter an equation
-M / M
+> M / M
 You are ... lazy
-1.0
+> 1.0
 Do you want to store the result? (y / n):
-n
+> n
 Do you want to continue calculations? (y / n):
-n
+> n
 
 -------------------------------------------------------------------------------
 
