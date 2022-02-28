@@ -1,7 +1,5 @@
 Python 3 and higher
 
-Honest Calculator is an application that motivates users rely on their own mind rather than computer calculations
-
 Example:
 ```
 Enter an equation
