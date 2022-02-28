@@ -39,6 +39,5 @@ Do you want to store the result? (y / n):
 Do you want to continue calculations? (y / n):
 > n
 ```
--------------------------------------------------------------------------------
 
 If you would like to learn how to create the same app just visit this link: https://hyperskill.org/projects/208
